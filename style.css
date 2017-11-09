@@ -26,6 +26,11 @@ nav ul li {
   margin-right: 10px;
 }
 
+nav a {
+  text-decoration: none; 
+  color: #007bff; 
+  font-size: 18px;
+}
 nav a:hover {
   text-decoration: underline;
   color: #0056b3;
@@ -87,5 +92,5 @@ div.questions a.btn {
 
 div.questions a.btn:hover {
   background-color: #0069d9;
-  border-color: #0069d9; 
+  border-color: #0069d9;
 }
